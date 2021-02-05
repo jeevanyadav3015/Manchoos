@@ -1,0 +1,22 @@
+{
+  "loginPage": {
+    "email": ["xpath","//input[@name='log_username']"],
+    "password": ["xpath","//input[@name='log_password']"],
+    "loginButton" : ["id","btnlogin"]
+  },
+ "leftNavigation" : {
+   "menu": ["xpath","//span[text()='Menu']"],
+   "valet" : ["xpath","//span[text()='Valet']"],
+   "dineIn" : ["xpath", "//span[text()='Dine In']"],
+   "payments" : ["xpath","//span[text()='Payments']"],
+   "restaurantProfile": ["xpath", "//span[text()='Restaurant Profile']"],
+   "subscription": ["xpath" ,"//span[text()='Subscription']"]
+  },
+  "dashBoardPage" : {
+    "userIcon": ["xpath","//div[contains(@class,'small avater')]"],
+    "alertIcon" : ["xpath","//div[contains(@class,'small avater')]/preceding::ion-button[1]"],
+    "searchIcon" : ["xpath","//div[contains(@class,'small avater')]/preceding::ion-button[2]"],
+    "profile" : ["xpath","//span[text()='Profile']"],
+    "logout" : ["xpath","//span[text()='Logout']"]
+  }
+}

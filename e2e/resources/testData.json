@@ -1,0 +1,21 @@
+{
+  "manchoos": {
+    "baseUrl": "https://rm---qa.web.app/login"
+  },
+  "credentials": {
+    "userName": "nagesh@123",
+    "passWord": "Nagesh@123"
+  },
+  "results": {
+    "result1": "www.helloselenium.com"
+  },
+  "users": {
+    "firstName": "demo",
+    "lastName" : "user",
+    "email" : "demouser@gmail.com",
+    "phoneNumber" : "1234567890",
+    "Address" : "No 123 4ths street NA",
+    "State" : "Karnataka",
+    "zipCode" : "560056"
+  }
+}

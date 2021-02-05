@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="5.894">
+ <testsuite name="Login Logout Test cases execution " timestamp="2021-02-03T16:44:44" hostname="localhost" time="5.894" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Login Logout Test cases execution " name="Login-Logout" time="5.89" />
+ </testsuite>
+</testsuites>
